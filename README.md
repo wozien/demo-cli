@@ -1,8 +1,16 @@
 webpack 常用配置脚手架工具，可用于快速原型开发
 
+## 安装
+
+```bash
+npm i @wozien/demo-cli -g
+```
+
 ## 用法
 
 ```bash
+demo -h
+
 Usage: demo <command> [options]
 
 Options:
